@@ -82,3 +82,10 @@ void print(int l1,int r1)
 	print(r[l1][r1],r1);
 	return;
 }
+
+//n=4
+//p[i]=3,3,1,1
+//q[i]=2,3,1,1,1
+
+//data=10,20,30,40
+//freq=4,2,6,3
